@@ -11,11 +11,12 @@ The game has three levels. Each level has the cards with the names and pictures 
 ### Playing the Game
 
 After selecting two cards, the player presses the “check match” button. If the pair of cards is a match, the following actions take place on the screen:
-• The score increases by 1 point.
-• The message “Correct!” appears in the match results.
-• Matched cards can no longer be flipped.
-• Matched cards are blurred and have a shadow behind them.
-If the pair of cards is not a match, the match results displays the message “not a match.” Once the last match is found, the “next level” button appears, and the player may click it to go on to the next level. There is also a “re-shuffle” button if the player wishes to shuffle the deck and play that round again. The re-shuffle button can be clicked at anytime during the game.
+
+- The score increases by 1 point.
+- The message “Correct!” appears in the match results.
+- Matched cards can no longer be flipped.
+- Matched cards are blurred and have a shadow behind them.
+  If the pair of cards is not a match, the match results displays the message “not a match.” Once the last match is found, the “next level” button appears, and the player may click it to go on to the next level. There is also a “re-shuffle” button if the player wishes to shuffle the deck and play that round again. The re-shuffle button can be clicked at anytime during the game.
 
 ### Writing the Code
 
