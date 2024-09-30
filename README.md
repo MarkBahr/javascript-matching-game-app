@@ -2,7 +2,7 @@
 
 ### Project's Purpose
 
-Because I love United States history, I had a blast creating a game where you match the names and faces of U.S. Presidents. This project shows my skills in using JavaScript for front end web development, as well as HTML and CSS. It’s quite fun to play, and the end result looks beautiful. <a href="https://gluconatekid.github.io/ProgrammingProjects/matching-game/index.html">Click here to play.</a>
+Because I love United States history, I had a blast creating a game where you match the names and faces of U.S. Presidents. This project shows my skills in using JavaScript for front end web development, as well as HTML and CSS. It’s quite fun to play, and the end result looks beautiful. <a href="https://gluconatekid.github.io/ProgrammingProjects/matching-game/index.html" target="_blank">Click here to play.</a>
 
 ### Game Levels
 
