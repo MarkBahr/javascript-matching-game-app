@@ -2,11 +2,11 @@
 
 ### Project's Purpose
 
-Because I love learning and teaching United States history, I decided it would be fun to create a game where you match the names and faces of U.S. Presidents. This project shows my skills in using JavaScript for front end web development, as well as some basic skills using HTML and CSS styles. I really enjoyed working on this project. It’s quite fun to play, and the end result looks beautiful.
+Because I love United States history, I had a blast creating a game where you match the names and faces of U.S. Presidents. This project shows my skills in using JavaScript for front end web development, as well as HTML and CSS. It’s quite fun to play, and the end result looks beautiful. <a href="https://gluconatekid.github.io/ProgrammingProjects/matching-game/index.html">Click here to play.</a>
 
 ### Game Levels
 
-The game has three levels. Each level has the cards with the names and pictures of six U.S. presidents. Level one includes presidents from George Washington, in 1789, to James Monroe in 1829. Level two goes from Andrew Jackson to Zachary Taylor, and Level three contains prominent presidents since 1861, such as Abraham Lincoln, Franklin Delano Roosevelt and Ronald Reagan.
+The game has three levels. Each level has the cards with the names and pictures of six U.S. presidents. Level one includes presidents from George Washington, in 1789, to James Monroe in 1829. Level two goes from Andrew Jackson to Zachary Taylor, and Level three contains prominent presidents since 1861, such as Abraham Lincoln, Franklin Delano Roosevelt and Ronald Reagan. (Note: This game is eant for browwers on desktop or laptop computers. If played on a tablet or phone, you will have to re-size the screen.)
 
 ### Playing the Game
 
@@ -31,13 +31,13 @@ Check Match – I wrote three functions that handle the logic to determine wheth
 
 Reshuffle – The reshuffle button takes the player to a new, identically looking page where the cards are assigned to different images, and the game level starts from the beginning, with all the cards face down and the score at zero.
 
-### Ways to Improve the Game
+### Plans to Improve the Game
 
-Here are some ideas for making the game better.
+Here are some plans I have for making the game better.
 
 - When a pair of cards is not a match, the game could flip the cards back over for you.
 - Each level of the game looks like a one page app, but the re-shuffle button actually contains a link to a new page that is copy of the first, only with the deck re-shuffled. I think the game could be slightly improved by incorporating an actual random reshuffle logic within the same page instead of taking the player to a new nearly identical HTML page. This might be accomplished by creating a dictionary with keys assigned to each image, and assign the buttons to the key numbers instead of images. That way, the images could be truly randomly re-assigned to buttons each time the re-shuffle button is pressed.
 - For those who might cheat, the game could add logic to prevent players from flipping over more than two cards at a time.
 - For those who love learning about the presidents, the game could be expanded to include all of the U.S. presidents, which would require 8 levels, since there have been 46 U.S. presidents.
 
-In conclusion, doing this project helped me to learn more about manipulating HTML elements using JavaScript. I also learned to recognize the faces of even more U.S. presidents.
+In conclusion, doing this project has helped me to learn more about manipulating HTML elements using JavaScript. I also learned to recognize the faces of even more U.S. presidents.
